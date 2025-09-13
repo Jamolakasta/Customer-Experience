@@ -31,3 +31,5 @@ As a **junior data analyst** at Datafied Technologies, the tasks include:
 - 📅 Arrival details  
 - 🛏️ Room assignments  
 - … and more  
+
+The dataset provides the foundation for identifying opportunities and making informed business decisions 
