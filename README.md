@@ -58,6 +58,6 @@ By implementing this Power BI solution, hotel management can:
   
 ## 📬 Contact
 For queries or collaborations, feel free to reach out:  
-- 📧 (Email)[jamolakasta@gmail.com]
+- 📧 [Email](jamolakasta@gmail.com)
 - 🔗 (LinkedIn)[https://www.linkedin.com/in/jamiu-lawal] 
 
