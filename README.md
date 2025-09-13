@@ -22,4 +22,5 @@ As a **junior data analyst** at Datafied Technologies, the tasks include:
 3. 💡 Develop actionable insights to:  
    - Improve operational efficiency  
    - Optimise hotel revenue  
-   - Enhance customer experiences  
+   - Enhance customer experiences
+   - 
