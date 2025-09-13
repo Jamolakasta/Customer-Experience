@@ -14,3 +14,12 @@ They partnered with **Datafied Technologies** to unlock insights into:
 - Guest demographics  
 - Operational efficiencies  
 The ultimate goal: **boost customer satisfaction while optimising revenue**.
+
+## 🎯 Project Objectives
+As a **junior data analyst** at Datafied Technologies, the tasks include:  
+1. 🔍 Identify booking patterns and trends  
+2. 👥 Analyse guest demographics and preferences  
+3. 💡 Develop actionable insights to:  
+   - Improve operational efficiency  
+   - Optimise hotel revenue  
+   - Enhance customer experiences  
