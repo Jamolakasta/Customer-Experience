@@ -23,4 +23,12 @@ As a **junior data analyst** at Datafied Technologies, the tasks include:
    - Improve operational efficiency  
    - Optimise hotel revenue  
    - Enhance customer experiences
-   - 
+---
+## Dataset Information 
+The dataset contains **comprehensive hotel booking details**, including
+🏷️ Average Daily Rate (ADR)  
+👨‍👩‍👧 Number of guests  
+ 🏢 Booking agency  
+📅 Arrival details  
+ 🛏️ Room assignments  
+- … and more  
