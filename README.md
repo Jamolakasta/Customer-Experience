@@ -32,4 +32,32 @@ As a **junior data analyst** at Datafied Technologies, the tasks include:
 - 🛏️ Room assignments  
 - … and more  
 
-The dataset provides the foundation for identifying opportunities and making informed business decisions 
+The dataset provides the foundation for identifying opportunities and making **informed business decisions**
+
+## 🚀 Outcome & Impact
+
+By implementing this Power BI solution, hotel management can:  
+- Gain clarity on guest booking behaviours  
+- Anticipate seasonal and market trends  
+- Tailor services to guest demographics  
+- Proactively adjust pricing for revenue optimisation  
+- Enhance overall **guest satisfaction**  
+
+## 🧑‍💻 Tools and Technologies
+- **Power BI** – Data visualization & dashboarding  
+- **Excel / CSV** – Dataset format  
+- **Data Modeling & DAX** – Calculations and insights  
+
+## 📷 Sample Dashboards
+
+
+## 🤝 Author / Contributors
+
+- **Datafied Technologies** – Data Analytics Partner  
+- **Junior Data Analyst** – Project Execution
+  
+## 📬 Contact
+For queries or collaborations, feel free to reach out:  
+📧 Email:[jamolakasta@gmail.com]
+🔗 LinkedIn: [https://www.linkedin.com/in/jamiu-lawal] 
+
